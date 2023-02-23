@@ -1,4 +1,4 @@
-# ts-zustand
+# zustand-slice
 
 zustand 切片组织store方式演示
 #### 运行
